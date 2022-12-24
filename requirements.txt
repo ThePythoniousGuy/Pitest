@@ -1,0 +1,8 @@
+httpx
+fake-agent
+aiofiles
+python-telegram-bot==20.0a6
+requests
+pyrogram
+tgcrypto
+psutil
