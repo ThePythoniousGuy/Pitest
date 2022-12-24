@@ -46,6 +46,7 @@ def debug(text, filename:str=""):
 api_id = 10661093
 api_hash = "ffa39e7d5836716e9a084233b828ae34"
 key = "5877028651:AAFz5Fd_swxSZyqeCkY96hzlbkgL1J0E_C4"
+key = "5962713812:AAEdrzBgzEScRzh0iBdyAPl8DrM7GyDOUNQ"
 
 bot = Client("Youtube1", api_id, api_hash, bot_token=key)
 
